@@ -1,0 +1,4 @@
+/out
+*.pptx
+*.txt
+pycache/ *.pyc
